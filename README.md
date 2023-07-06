@@ -19,3 +19,4 @@
 => 13. Constants folder created and written down all nav links etc..
 => 14. AuthProvider file created
 => 15. Footer component completed
+=> 16. Grafbase setup and connected to github and .env file created and api key added
