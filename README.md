@@ -14,3 +14,4 @@
 => 8. layout.tsx file updated
 => 9. Main page warped by header and footer
 => 10. globals.css file imported to layout.tsx file
+=> 11. Header and footer component created
