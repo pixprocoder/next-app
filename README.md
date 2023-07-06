@@ -13,3 +13,4 @@
 => 7. home page page layout sample created
 => 8. layout.tsx file updated
 => 9. Main page warped by header and footer
+=> 10. globals.css file imported to layout.tsx file
