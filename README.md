@@ -20,3 +20,5 @@
 => 14. AuthProvider file created
 => 15. Footer component completed
 => 16. Grafbase setup and connected to github and .env file created and api key added
+=> 17. AuthProvider setup completed
+=> 18. inside app > api > auth > [...nextauth] > route file created
