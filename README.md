@@ -12,3 +12,4 @@
 => 6. common.types.ts file created
 => 7. home page page layout sample created
 => 8. layout.tsx file updated
+=> 9. Main page warped by header and footer
