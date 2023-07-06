@@ -18,3 +18,4 @@
 => 12. working on navbar
 => 13. Constants folder created and written down all nav links etc..
 => 14. AuthProvider file created
+=> 15. Footer component completed
