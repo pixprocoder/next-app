@@ -16,3 +16,4 @@
 => 10. globals.css file imported to layout.tsx file
 => 11. Header and footer component created
 => 12. working on navbar
+=> 13. Constants folder created and written down all nav links etc..
