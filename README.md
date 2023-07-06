@@ -22,3 +22,4 @@
 => 16. Grafbase setup and connected to github and .env file created and api key added
 => 17. AuthProvider setup completed
 => 18. inside app > api > auth > [...nextauth] > route file created
+=> 19. lib folder > session file created.
