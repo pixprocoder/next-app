@@ -9,3 +9,4 @@
 => 3. moved favicon.ico to app folder
 => 4. created components folder
 => 5. tailwind config file updated
+=> 6. common.types.ts file created
