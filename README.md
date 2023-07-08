@@ -27,3 +27,4 @@
 => 21. lib > actions.ts file created
 => 22. lib > api.ts file created
 => 23. graphql folder created and index.ts file created
+=> 24. ProfileMenu page created
