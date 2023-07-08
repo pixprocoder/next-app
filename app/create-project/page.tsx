@@ -5,7 +5,6 @@ import { getCurrentUser } from "@/lib/session";
 
 const CreateProject = async () => {
   const session = await getCurrentUser();
-  console.log("inside", session);
 
   if (!session) redirect;
   return (
