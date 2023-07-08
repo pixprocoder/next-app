@@ -2,9 +2,10 @@ import Image from "next/image";
 import React, { MouseEventHandler } from "react";
 
 type Props = {
+  children?: React.ReactNode;
   title: string;
-  leftIcon: string | null;
-  rightIcon: string | null;
+  leftIcon?: string | null;
+  rightIcon?: string | null;
   handleClick?: MouseEventHandler;
   isSubmitting?: boolean;
   type?: "button" | "submit" | "reset" | undefined;
