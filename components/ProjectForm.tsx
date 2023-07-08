@@ -69,7 +69,7 @@ const ProjectForm = ({ type, session }: Props) => {
     image: "",
     liveSiteUrl: "",
     githubUrl: "",
-    linkedInUrl: "",
+    linkedinUrl: "",
     category: "",
   });
 
@@ -123,9 +123,9 @@ const ProjectForm = ({ type, session }: Props) => {
       />
       <FormField
         title="LinkedIn URL"
-        state={form.linkedInUrl}
+        state={form.linkedinUrl}
         placeholder="https://linkedin.com"
-        setState={(value) => handleStateChange("linkedInUrl", value)}
+        setState={(value) => handleStateChange("linkedinUrl", value)}
       />
 
       {/* Custom Category... */}
