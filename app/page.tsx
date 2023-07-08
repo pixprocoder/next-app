@@ -1,3 +1,5 @@
+import Head from "next/head";
+
 const Home = () => {
   return (
     <section className="flex-start flex-col paddings mb-16">

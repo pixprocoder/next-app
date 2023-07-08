@@ -1,6 +1,7 @@
 import Navbar from "@/components/Navbar";
 import "./globals.css";
 import Footer from "@/components/Footer";
+import Head from "next/head";
 
 export const metadata = {
   title: "Flexible",
@@ -15,6 +16,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <Head>
+        <meta name="robots" content="noindex" />
+      </Head>
       <body>
         <Navbar />
         <main>{children}</main>

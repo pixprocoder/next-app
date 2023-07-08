@@ -23,3 +23,7 @@
 => 17. AuthProvider setup completed
 => 18. inside app > api > auth > [...nextauth] > route file created
 => 19. lib folder > session file created.
+=> 20. go to google cloud console and enable google auth and get client id and client secret and set it to .env file
+=> 21. lib > actions.ts file created
+=> 22. lib > api.ts file created
+=> 23. graphql folder created and index.ts file created
